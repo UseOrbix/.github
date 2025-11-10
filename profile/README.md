@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<p align="center"><b>✨ Terminal applications for data and user storage</b></p>
+
 ---
 
-<p align="center"><b>✨ Terminal applications for data and user storage</b></p>
+<p align="center"><a href="https://github.com/useorbix/orbix"><img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/a7e301ba-a609-49d0-b1fc-62f4ad1500eb" /></a></p>
